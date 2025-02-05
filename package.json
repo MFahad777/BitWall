@@ -1,7 +1,7 @@
 {
   "name": "bit-wall",
   "version": "1",
-  "description": "A simplified authentication package",
+  "description": "This package provides methods to check, add, remove, and retrieve permissions in both raw and human-readable formats.",
   "author": "Muhammad Fahad",
   "main": "dist/index.js",
   "scripts": {
@@ -12,9 +12,9 @@
     "test": "jest"
   },
   "keywords": [
-    "auth",
-    "jwt",
-    "authentication"
+    "permissions",
+    "bitwise",
+    "bit"
   ],
   "license": "MIT",
   "devDependencies": {
@@ -24,8 +24,6 @@
     "ts-node": "^10.9.2",
     "typescript": "^4.9.4"
   },
-  "dependencies": {
-  },
   "files": [
     "dist/**/*"
   ],
@@ -33,6 +31,8 @@
     "node": ">=18.0.0"
   },
   "repository": {
-    "type": "git"
-  }
+    "type": "git",
+    "url": "https://github.com/MFahad777/BitWall"
+  },
+  "homepage": "https://github.com/MFahad777/BitWall/blob/main/README.md"
 }

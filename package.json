@@ -1,6 +1,6 @@
 {
   "name": "bit-wall",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This package provides methods to check, add, remove, and retrieve permissions in both raw and human-readable formats.",
   "author": "Muhammad Fahad",
   "main": "dist/index.js",
